@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumbleClientLib", "RumbleClientLib\RumbleClientLib.csproj", "{7552E822-41F2-4763-A494-20DC18207CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumbleClientLibTests", "UnitTestProject1\RumbleClientLibTests.csproj", "{BDA5E81A-5546-4BFB-95A5-694D667200DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{7552E822-41F2-4763-A494-20DC18207CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7552E822-41F2-4763-A494-20DC18207CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7552E822-41F2-4763-A494-20DC18207CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA5E81A-5546-4BFB-95A5-694D667200DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA5E81A-5546-4BFB-95A5-694D667200DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA5E81A-5546-4BFB-95A5-694D667200DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA5E81A-5546-4BFB-95A5-694D667200DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
