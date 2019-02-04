@@ -1,2 +1,2 @@
 # Rumble-Client-CSharp
-C#-based Rumble Client
+C#-based Rumble Client (Abandoned)
